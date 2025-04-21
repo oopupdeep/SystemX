@@ -45,7 +45,6 @@ UsageStatsManager / AppOpsManager / ActivityManager 等系统服务
 选中目标 App 后点击清除
 
 ### 权限控制器
-··
 使用 AppOpsManager 获取应用权限状态
 
 开关位置权限、通知权限等（兼容不同 API 级别）
